@@ -4,7 +4,7 @@
 <fullyQualifiedTypeName name="chess.Color"/>
 <fullyQualifiedTypeName name="boardgame.Position"/>
 <fullyQualifiedTypeName name="chess.ChessMatch"/>
-<fullyQualifiedTypeName name="java.util.stream.Collectors"/>
 <fullyQualifiedTypeName name="java.util.Arrays"/>
 <fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.stream.Collectors"/>
 </qualifiedTypeNameHistroy>
